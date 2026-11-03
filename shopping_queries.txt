@@ -1,0 +1,41 @@
+Lab 7 - Task 1:
+55 ?- start.
+
+** SHOPPING LIST **
+d. Display all items
+a. Add an item
+e. Exit
+Enter your choice: d.
+apple
+milk
+coffee
+bread
+juice
+
+** SHOPPING LIST **
+d. Display all items
+a. Add an item
+e. Exit
+Enter your choice: |: a.
+Enter an item: |: chocolate.
+Item added.
+
+** SHOPPING LIST **
+d. Display all items
+a. Add an item
+e. Exit
+Enter your choice: |: d.
+apple
+milk
+coffee
+bread
+juice
+chocolate
+
+** SHOPPING LIST **
+d. Display all items
+a. Add an item
+e. Exit
+Enter your choice: |: e.
+Goodbye!
+true .
